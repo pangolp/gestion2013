@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<persona>
+		<nombre>Pedro Sanchez</nombre>
+		<ciudad>La Plata</ciudad>
+		<edad>23</edad>
+		<club>River Plate</club>
+		<hijos>
+			<nombre>Walter</nombre>
+		</hijos>
+	</persona>
+	<persona>
+		<nombre>Juan Tevez</nombre>
+		<ciudad>La Plata</ciudad>
+		<edad>23</edad>
+		<club>San Lorenzo</club>
+		<hijos>
+			<nombre>Angelica</nombre>
+		</hijos>
+	</persona>
+	<persona>
+		<nombre>Mario Scala</nombre>
+		<ciudad>La Plata</ciudad>
+		<edad>23</edad>
+		<club>Estudiantes</club>
+	</persona>
