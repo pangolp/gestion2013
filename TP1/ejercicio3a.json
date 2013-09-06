@@ -1,22 +1,22 @@
 {
 	"personas": [
 			{
-				'nombre':'Pedro Sanchez',
-				'ciudad':'La plata',
-				'edad':23
-				'club':'River Plate',
+				"nombre" : "Pedro Sanchez",
+				"ciudad" : "La plata",
+				"edad" : 23,
+				"club" : "River Plate",
 			},
 			{
-				'nombre':'Juan Tevez',
-				'ciudad':'La Plata',
-				'edad':23
-				'club':'San Lorenzo',
+				"nombre" : "Juan Tevez",
+				"ciudad" : "La Plata",
+				"edad" : 23,
+				"club" : "San Lorenzo",
 			},
 			{
-				'nombre':'Mario Scala',
-				'ciudad':'La plata',
-				'edad':23
-				'club':'Estudiantes',
+				"nombre" : "Mario Scala",
+				"ciudad" : "La plata",
+				"edad" : 23,
+				"club" : "Estudiantes",
 			}
 		    ]
 }
