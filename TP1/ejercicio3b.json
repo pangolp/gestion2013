@@ -1,0 +1,28 @@
+{
+	"personas": [
+			{
+				"nombre" : "Pedro Sanchez",
+				"ciudad" : "La plata",
+				"edad" : 23,
+				"club" : "River Plate",
+				"hijos": [
+						{ "nombre" : "Walter", }
+					 ] 	
+			},
+			{
+				"nombre" : "Juan Tevez",
+				"ciudad" : "La Plata",
+				"edad" : 23,
+				"club" : "San Lorenzo",
+				"hijos": [
+						{ "nombre" : "Angelica", }
+					 ] 
+			},
+			{
+				"nombre" : "Mario Scala",
+				"ciudad" : "La plata",
+				"edad" : 23,
+				"club" : "Estudiantes",
+			}
+		    ]
+}
